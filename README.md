@@ -1,2 +1,1 @@
-# app-ads
-Google AdMob
+# Donzo web site
